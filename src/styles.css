@@ -1,0 +1,18 @@
+body {
+  background-color: antiquewhite;
+}
+.todo-list {
+  display:flex;
+  flex-direction: column;
+  row-gap: 10px;
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+
+.modal{
+  padding: 50px;
+  background-color: antiquewhite;
+  border-radius: 4px;
+}
